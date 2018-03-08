@@ -3,7 +3,9 @@
 ## What is this?
 
 ## Technical things
-Make sure you have Python installed properly. Also, install the Heroku CLI and Postgres.
+Make sure you have Python installed properly.
 
 ## To-do
-Improve README.md file
+- [ ] Improve README.md file
+- [ ] Tests
+- [ ] Setup and run
